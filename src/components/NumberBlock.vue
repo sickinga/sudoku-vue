@@ -8,7 +8,7 @@
 
 <style scoped>
 div.number-block {
-    border: 0.5px solid white;
+    border: 0.5px solid black;
     max-width: 50px;
     width: 100%;
 }

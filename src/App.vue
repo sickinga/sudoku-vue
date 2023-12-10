@@ -1,9 +1,8 @@
 <script setup lang="ts">
-  import GameBoard from "./components/GameBoard.vue";
 </script>
 
 <template>
-  <GameBoard />
+    <router-view></router-view>
 </template>
 
 <style scoped>
